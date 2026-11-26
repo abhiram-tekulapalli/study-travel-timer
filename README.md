@@ -173,7 +173,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 ## 👨‍💻 Author
 
 **Tekulapalli Abhiram**  
-[@abhiram-tekulapalli](https://github.com/abhiram-tekulapalli) · [@pokephantom98765](https://github.com/pokephantom98765)
+[@abhiram-tekulapalli](https://github.com/abhiram-tekulapalli)
 
 ---
 
